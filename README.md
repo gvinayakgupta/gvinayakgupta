@@ -16,7 +16,7 @@
 ## Time for some stats
 
 ![Vinayak's github stats](https://github-readme-stats.vercel.app/api?username=gvinayakgupta&&show_icons=true&theme=dark)
-
+![Vinayak's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gvinayakgupta&layout=compact)
 ![Profile Views](https://github-profile-view-counter.vercel.app/gvinayakgupta/gvinayakgupta)
 
 
