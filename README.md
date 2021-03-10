@@ -15,9 +15,9 @@
 ## Time for some stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gvinayakgupta&&show_icons=true" max-width="100%" width="450px">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gvinayakgupta" max-width="100%" width="450px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvinayakgupta&layout=compact" max-width="100%" width="450px">
+    <img src="https://github-readme-stats.vercel.app/api?username=vinayakguptaa&&show_icons=true" max-width="100%" width="450px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakguptaa" max-width="100%" width="450px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakguptaa&layout=compact" max-width="100%" width="450px">
 </p>
 
 ## Feel free to connect
@@ -25,5 +25,5 @@
 [![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/vinayakguptaaa) 
 [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/vinayak.__.gupta/)
 [![Twitter](https://img.shields.io/badge/twitter-follow-blue?logo=twitter&logoColor=white)](https://twitter.com/vinayakguptaa)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-follow-informational?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gvinayakgupta/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-follow-informational?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayakguptaa/)
 [![Mail](https://img.shields.io/badge/Mail-critical?logo=gmail&logoColor=white)](mailto:guptavinayakg@gmail.com)
